@@ -1,3 +1,3 @@
-# About this project
+# About it
 
-Simple public chat application using spring-boot and websockets with the purpose of learning the basic of Websocket Communication Protocol.
+Simple public chat application using spring-boot and WebSockets with the purpose of learning the basics of WebSocket Communication Protocol.
