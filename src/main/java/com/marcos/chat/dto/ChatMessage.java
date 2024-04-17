@@ -10,7 +10,7 @@ import lombok.*;
 @Builder
 public class ChatMessage {
 
-    private String message;
+    private String content;
     private String sender;
     private MessageType type;
 }
